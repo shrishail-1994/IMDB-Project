@@ -1,0 +1,37 @@
+.card-text-1{
+    position: absolute;
+    margin-left: 10px;
+    
+}
+
+
+.card-text-3{
+    position: absolute;
+    margin-left: 10px;
+
+}
+
+#template{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.container1{
+    float: left;
+    margin: 10px;
+}
+
+.container-2.card-body2{
+    
+    padding-top: 10px;
+}
+
+.container-1.card-body1{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.container1 img{
+    height: 400px !important;
+    width : 300px
+}

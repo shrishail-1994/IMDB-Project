@@ -1,2 +1,2 @@
-# IMDB-Project
-Movies Search using Javascript
+# imdbProject
+working with apis
